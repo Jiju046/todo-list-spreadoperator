@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-list-spreadoperator/static/css/main.0c1dc8a7.css",
+    "main.js": "/todo-list-spreadoperator/static/js/main.bfb826f2.js",
+    "index.html": "/todo-list-spreadoperator/index.html",
+    "main.0c1dc8a7.css.map": "/todo-list-spreadoperator/static/css/main.0c1dc8a7.css.map",
+    "main.bfb826f2.js.map": "/todo-list-spreadoperator/static/js/main.bfb826f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c1dc8a7.css",
+    "static/js/main.bfb826f2.js"
+  ]
+}
